@@ -1,7 +1,7 @@
 [![Discord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/discord.png)](https://discord.com/)
 [![Powercord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/powercord.png)](https://powercord.dev/)
 
-![Banner](https://raw.githubusercontent.com/powercord-themes/Assets/main/Banner/Themes.png?token=AOBQLVU7J5AQQBRYNYUPAETANSIMI)
+![Banner](https://raw.githubusercontent.com/powercord-themes/Assets/main/Banner/Themes.png?token=AOBQLVVUOLJEDXTW7CLEKODANSJAM)
 
 Here you can find a collection of themes.
 
