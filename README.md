@@ -11,6 +11,6 @@ Here you can find a collection of themes.
 |------------|-------------|-------------|
 | [**CreArts**](https://github.com/powercord-themes/CreArts) | [**Nebula**](https://github.com/powercord-themes/Nebula) | [**Miyua**](https://github.com/powercord-themes/Miyua) |
 
-| <img src="https://user-images.githubusercontent.com/58918358/113792933-67825900-9747-11eb-8d24-0eb59028ac6f.png" width="600"> | <img src="https://user-images.githubusercontent.com/58918358/113792938-6a7d4980-9747-11eb-8a5f-0a02f1b37423.png" width="600"> | <img src="X" width="600"> |
+| <img src="https://user-images.githubusercontent.com/58918358/113792933-67825900-9747-11eb-8d24-0eb59028ac6f.png" width="600"> | <img src="https://user-images.githubusercontent.com/58918358/113792938-6a7d4980-9747-11eb-8a5f-0a02f1b37423.png" width="600"> | <img src="https://user-images.githubusercontent.com/58918358/113792938-6a7d4980-9747-11eb-8a5f-0a02f1b37423.png" width="600"> |
 |------------|-------------|-------------|
-| [**Bubblecord**](https://github.com/powercord-themes/Bubblecord) | [**Slate**](https://github.com/powercord-themes/Slate) | [**X**](X) |
+| [**Bubblecord**](https://github.com/powercord-themes/Bubblecord) | [**Slate**](https://github.com/powercord-themes/Slate) | [**Slate**](https://github.com/powercord-themes/Slate) |
